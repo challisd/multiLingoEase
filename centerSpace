@@ -1,9 +1,9 @@
 { "title":"MessageEase", "onScreen":{ 
   "main":[ 
     "[4D:a[LEFT] -   v][4D:n+2!l\\/][4D:i?I[RIGHT]    x][ENTER]", 
-    "[4D:h( k    [LB]][4D:ocubdqpjg][4D:rm[SHIFT]) @ [RB]][4D:[123] [COPY] [PASTE][CUT]]", 
+    "[4D:h( k    [LB]][4D:[SPACE]cubdqpjg][4D:rm[SHIFT]) @ [RB]][4D:[123] [COPY] [PASTE][CUT]]", 
     "[4D:t[MC:I love you! :♡]    y[TAB]][4D:e wz.”':,][4D:s  [MC:me@gmail.com:✉] f  ;][4D:[DEL][WDEL][ALL]]", 
-    "[SPACE][][][TOOL]" 
+    "[4D:12345][4D:O-*+/][4D:06789][TOOL]" 
   ] 
 } 
 }
