@@ -1,0 +1,9 @@
+{ "title":"CenterSpace", "onScreen":{ 
+  "main":[ 
+    "[4D:a[LEFT] -   v][4D:n+2!l\\/][4D:i?I[RIGHT]    x][ENTER]", 
+    "[4D:h( k    [LB]][4D:[MC: :⏘]cubdqpjg][4D:rm[SHIFT])@  [RB]][TOOL]", 
+    "[4D:t[MC:I love you! :♡]    y[TAB]][4D:e wz.\"':,][4D:s  [MC:me@gmail.com:✉] f  ;][4D:[DEL][WDEL][COPY][CUT][PASTE]]", 
+    "[4D:12345][4D:o-*+/][4D:06789][SPACE]"
+  ] 
+} 
+}
